@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.041" tests="10" errors="10" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="F:\Entornos de desarrollo\EduardoCoteron08_EntornosEXEV2\target\test-classes;F:\Entornos de desarrollo\EduardoCoteron08_EntornosEXEV2\target\classes;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Usuario\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Usuario\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Madrid"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Usuario\AppData\Local\Temp\surefire16374081364888593575\surefirebooter5013552318785293188.jar C:\Users\Usuario\AppData\Local\Temp\surefire16374081364888593575 2022-03-27T21-19-52_028-jvmRun1 surefire10203802636066655996tmp surefire_016466030000289762916tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.mycompany.eduardocoteron08_entornosexev2.RelojTest"/>
+    <property name="surefire.test.class.path" value="F:\Entornos de desarrollo\EduardoCoteron08_EntornosEXEV2\target\test-classes;F:\Entornos de desarrollo\EduardoCoteron08_EntornosEXEV2\target\classes;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Usuario\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\Usuario\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\Usuario\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Usuario"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-16.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="F:\Entornos de desarrollo\EduardoCoteron08_EntornosEXEV2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Usuario\AppData\Local\Temp\surefire16374081364888593575\surefirebooter5013552318785293188.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="user.name" value="Usuario"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Usuario\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Usuario\AppData\Local\Temp\"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="user.dir" value="F:\Entornos de desarrollo\EduardoCoteron08_EntornosEXEV2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-16.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\program files\nvidia corporation\nvidia ngx;c:\program files\nvidia corporation\nvidia nvdlisr;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Usuario\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="testGetSegundo" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.019">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.getSegundo()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.getSegundo()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testGetSegundo(RelojTest.java:114)
+</error>
+    <system-out><![CDATA[getSegundo
+]]></system-out>
+  </testcase>
+  <testcase name="testGetHora" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.getHora()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.getHora()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testGetHora(RelojTest.java:86)
+</error>
+    <system-out><![CDATA[getHora
+]]></system-out>
+  </testcase>
+  <testcase name="testSetSegundo" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.setSegundo(int)&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.setSegundo(int)" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testSetSegundo(RelojTest.java:73)
+</error>
+    <system-out><![CDATA[setSegundo
+]]></system-out>
+  </testcase>
+  <testcase name="testIncrementa" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.incrementa()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.incrementa()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testIncrementa(RelojTest.java:127)
+</error>
+    <system-out><![CDATA[incrementa
+]]></system-out>
+  </testcase>
+  <testcase name="testDecrementa" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.decrementa()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.decrementa()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testDecrementa(RelojTest.java:139)
+</error>
+    <system-out><![CDATA[decrementa
+]]></system-out>
+  </testcase>
+  <testcase name="testSetMinuto" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.setMinuto(int)&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.setMinuto(int)" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testSetMinuto(RelojTest.java:60)
+</error>
+    <system-out><![CDATA[setMinuto
+]]></system-out>
+  </testcase>
+  <testcase name="testGetMinuto" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.getMinuto()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.getMinuto()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testGetMinuto(RelojTest.java:100)
+</error>
+    <system-out><![CDATA[getMinuto
+]]></system-out>
+  </testcase>
+  <testcase name="testHora12" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.hora12()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.hora12()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testHora12(RelojTest.java:152)
+</error>
+    <system-out><![CDATA[hora12
+]]></system-out>
+  </testcase>
+  <testcase name="testHora24" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.hora24()&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.hora24()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testHora24(RelojTest.java:166)
+</error>
+    <system-out><![CDATA[hora24
+]]></system-out>
+  </testcase>
+  <testcase name="testSetHora" classname="com.mycompany.eduardocoteron08_entornosexev2.RelojTest" time="0.001">
+    <error message="Cannot invoke &quot;com.mycompany.eduardocoteron08_entornosexev2.Reloj.setHora(int)&quot; because &quot;instance&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.setHora(int)" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testSetHora(RelojTest.java:47)
+</error>
+    <system-out><![CDATA[setHora
+]]></system-out>
+  </testcase>
+</testsuite>

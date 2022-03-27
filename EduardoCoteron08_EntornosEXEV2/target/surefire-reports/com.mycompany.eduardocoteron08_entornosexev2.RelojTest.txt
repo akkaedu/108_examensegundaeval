@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.eduardocoteron08_entornosexev2.RelojTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 10, Skipped: 0, Time elapsed: 0.041 s <<< FAILURE! - in com.mycompany.eduardocoteron08_entornosexev2.RelojTest
+testGetSegundo  Time elapsed: 0.019 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.getSegundo()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testGetSegundo(RelojTest.java:114)
+
+testGetHora  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.getHora()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testGetHora(RelojTest.java:86)
+
+testSetSegundo  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.setSegundo(int)" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testSetSegundo(RelojTest.java:73)
+
+testIncrementa  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.incrementa()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testIncrementa(RelojTest.java:127)
+
+testDecrementa  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.decrementa()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testDecrementa(RelojTest.java:139)
+
+testSetMinuto  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.setMinuto(int)" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testSetMinuto(RelojTest.java:60)
+
+testGetMinuto  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.getMinuto()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testGetMinuto(RelojTest.java:100)
+
+testHora12  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.hora12()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testHora12(RelojTest.java:152)
+
+testHora24  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.hora24()" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testHora24(RelojTest.java:166)
+
+testSetHora  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.eduardocoteron08_entornosexev2.Reloj.setHora(int)" because "instance" is null
+	at com.mycompany.eduardocoteron08_entornosexev2.RelojTest.testSetHora(RelojTest.java:47)
+
