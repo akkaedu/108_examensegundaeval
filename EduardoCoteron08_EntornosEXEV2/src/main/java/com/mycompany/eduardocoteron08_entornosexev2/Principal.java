@@ -34,8 +34,8 @@ public class Principal {
         System.out.println(miReloj.hora24());
         System.out.println("La hora tras sumar un segundo en formato 12H es: ");
         System.out.println(miReloj.hora12());
-        //Cambio la hora a las 7:7:00
-        System.out.println("Cambio la hora a 7:00:00");
+        //Cambio la hora a las 9:0:00
+        System.out.println("Cambio la hora a 9:00:00");
         miReloj.setMinuto(0);
         miReloj.setSegundo(0);
         //Restamos un segundo
